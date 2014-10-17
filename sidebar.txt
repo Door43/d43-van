@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[van:home|Door43 (van)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-van|d43-van repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-van/archive/master.zip|d43-van.zip]]
+
+**Recent Changes**
+{{changes>ns = van}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/van|Ethnologue data]]
+
